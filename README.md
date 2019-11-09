@@ -1,10 +1,10 @@
 # aspnetcore-cqrs-graphql
 <b>V1</b>
 
-<p>Book Query Example</p>
+Book Query Example
 
-<div>![Book Query Example](./screenshots/bookquery.png)</div>
+![Book Query Example](./screenshots/bookquery.png)
 
-<p>Book Mutation Example</p>
+Book Mutation Example
 
-<div>![Book Query Example](./screenshots/bookmutation.png)</div>
+![Book Query Example](./screenshots/bookmutation.png)

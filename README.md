@@ -2,7 +2,9 @@
 <b>V1</b>
 
 <p>Book Query Example</p>
-![Book Query Example](screenshots/bookquery.png)
+
+<div>![Book Query Example](screenshots/bookquery.png)</div>
 
 <p>Book Mutation Example</p>
-![Book Query Example](screenshots/bookmutation.png)
+
+<div>![Book Query Example](screenshots/bookmutation.png)</div>

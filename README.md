@@ -3,8 +3,8 @@
 
 <p>Book Query Example</p>
 
-<div>![Book Query Example](screenshots/bookquery.png)</div>
+<div>![Book Query Example](./screenshots/bookquery.png)</div>
 
 <p>Book Mutation Example</p>
 
-<div>![Book Query Example](screenshots/bookmutation.png)</div>
+<div>![Book Query Example](./screenshots/bookmutation.png)</div>

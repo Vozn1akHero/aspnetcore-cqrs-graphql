@@ -1,8 +1,8 @@
 # aspnetcore-cqrs-graphql
-V1
+<b>V1</b>
 
-Book Query Example
-![Book Query Example](screenshots/bookquery.png)
+<p>Book Query Example</p>
+<pre>![Book Query Example](screenshots/bookquery.png)</pre>
 
-Book Mutation Example
-![Book Query Example](screenshots/bookmutation.png)
+<p>Book Mutation Example</p>
+<pre>![Book Query Example](screenshots/bookmutation.png)</pre>
